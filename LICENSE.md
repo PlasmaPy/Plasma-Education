@@ -17,7 +17,7 @@ if and only if a portion of this work is being incorporated
 into an existing body of work that is licensed under a
 CC BY-SA 3.0 license (such as Wikipedia).
 
-Copyright (c) 2017, PlasmaPy Developers.
+Copyright (c) 2017-2018, PlasmaPy Developers.
 
 ## BSD 3-clause license with patent grant
 
